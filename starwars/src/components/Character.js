@@ -7,7 +7,7 @@ import {
     CardBody,
     CardText,
     Col
-  } from "reactstrap";
+} from "reactstrap";
 
 
 const Characters = props => {
